@@ -4,4 +4,4 @@ This is place to find presentations and tutorials on work relevant to the Biomed
 1. SQL Server Exporting - Export Batches of CSV files from SQL server
 2. PowerBI - Using PowerBI within VINCI Standard Workspace
 3. Packing Intervals - Combine overlapping DateTime intervals within SQL
-4. OpenAIAPI - A presentation on how to utilize our OpenAI API
+4. OpenAI - A presentation on how to utilize our OpenAI API
